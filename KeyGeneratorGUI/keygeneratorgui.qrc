@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="KeyGeneratorGUI">
+    </qresource>
+</RCC>
